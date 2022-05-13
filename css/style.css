@@ -1,0 +1,29 @@
+.head-choice{
+    padding-top: 36px;
+}
+.search-bar{
+    padding-top: 40px;
+}
+.header{
+    border-bottom: 2px solid gray;
+}
+.text-gray{
+    color: gray;
+}
+.pro1{
+    height: 280px;
+}
+.foot{
+    border-top: 2px solid gray;
+    padding-top: 50px;
+}
+.textarea{
+    padding-left: 50px;
+}
+.icon-f a{
+    color: black;
+    padding: 20px 30px 10px 30px;
+}
+.icon-f{
+    margin-top: 40px;
+}
